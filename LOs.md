@@ -1,4 +1,4 @@
-## Android Layouts and FXML
+## Android Layouts and XML
 
 During this lesson, you will:
 
